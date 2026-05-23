@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/front-porch-after-midnight/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Front Porch After Midnight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/front-porch-after-midnight/) |
+| **Get License** | [Obtain a Music License for Front Porch After Midnight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/front-porch-after-midnight/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the whiskey warmth inside your stare
+> The midnight breezes pulling at your hair
+> You pour your velvet silence over me
+> And nothing else on earth is meant to be
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
