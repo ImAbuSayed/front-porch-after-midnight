@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/front-porch-after-midnight/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Front Porch After Midnight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/front-porch-after-midnight/) |
+| **Get License** | [Request Licensing for Front Porch After Midnight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/front-porch-after-midnight/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d1733dabf340c9b6aa07bd4481fe7d118f4a455dd20cba083bab93c17278b1b9` |
 | **Timestamp** | May 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
